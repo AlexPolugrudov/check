@@ -24,3 +24,4 @@ class BudgetEntity(id: EntityID<Int>) : IntEntity(id) {
     }
 
 }
+
